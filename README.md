@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Mais de 10 anos criando sistemas corporativos e ERPs
+- 💼 Mais de 10 anos criando sistemas corporativos e ERPs em Delphi e SQL Server
 - 🧾 Especialista em sistemas fiscais: ACBr, NF-e, NFC-e, NFS-e e SEFAZ
 - 🧑‍🏫 Liderança técnica com Scrum e Kanban
 - 🚀 Expandindo para JavaScript, Next.js, IA e Cloud
