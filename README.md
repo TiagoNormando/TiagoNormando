@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=30&lines=Desenvolvedor+Delphi+S%C3%AAnior;Especialista+em+ACBr+e+Sistemas+Fiscais;Scrum+Master+%7C+Lideran%C3%A7a+T%C3%A9cnica;Explorando+Next.js%2C+IA+e+Cloud" alt="Typing SVG" /><br>
-  📍 Manaus - AM, Brasil<br>
-  <img src="https://komarev.com/ghpvc/?username=TiagoNormando&color=0e75b6&style=flat-square&label=visitas" alt="Visitas" />
+  📍 Manaus - AM, Brasil
 </p>
 
 ---
